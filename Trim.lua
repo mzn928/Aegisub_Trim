@@ -92,7 +92,6 @@ function trim(sub,sel,act)
 	
 	ffpath=res.ffpath
 	ffconf=res.ffconf
-	wvideo=res.wvideo
     target=scriptpath
 	vfull=vpath..videoname
 	
